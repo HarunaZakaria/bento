@@ -180,7 +180,7 @@ p{
     width: 450px;
     text-align: left;
 }
-@media(max-width:375px){
+@media(min-width:376px) and (max-width:1439px){
     .container{
         display: flex   ;
         margin: 30 auto 20px auto;
